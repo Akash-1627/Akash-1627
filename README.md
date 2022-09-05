@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akash Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash1627&label=Profile%20views&color=0e75b6&style=flat" alt="akash1627" /> </p>
+
 
 
 ![](https://github-profile-trophy.vercel.app/?username=Akash1627&theme=radical&no-frame=false&no-bg=true&margin-w=4)
