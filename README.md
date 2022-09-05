@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS**
 
-- ⚡ Fun fact **There is nothing more funny than a Coder**
+- ⚡  Serious Fact: **Anime is Not Cartoon!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
