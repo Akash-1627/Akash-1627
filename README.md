@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - ⚡  Serious Fact: **Anime is Not Cartoon!!!**
 
