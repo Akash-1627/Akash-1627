@@ -1,4 +1,4 @@
-[![MasterHead](https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://rishavchanda.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Akash Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
